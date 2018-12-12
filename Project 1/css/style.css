@@ -1,0 +1,45 @@
+body {
+  background-color: #DAF7A6;
+  color: #900C3F;
+}
+h1 {
+  font-family: gotham;
+  color: #900C3F;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+h2 {
+  font-family: gotham;
+  font-kerning: auto;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-family: gotham;
+  text-align: center;
+}
+
+li {
+  font-family:  gotham;
+  text-align: center;
+  font-weight:lighter;
+}
+
+ul {
+  list-style-type: none
+}
+
+a {
+    font-family:  gotham;
+    text-align: center;
+    align-items: center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
